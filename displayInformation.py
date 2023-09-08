@@ -1,0 +1,5 @@
+print('Họ tên: Võ Thị Cẩm Ngân')
+print('Ngày sinh: 31/08/1995')
+print('Nơi sống: Cần Thơ')
+print('Quê quán: Vĩnh Long')
+print('Nghề nghiệp: IT Software')
