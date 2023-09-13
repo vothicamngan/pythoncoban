@@ -24,7 +24,7 @@ width = 10
 current_area = length * width
 new_area = (length + 4) * width
 result = (new_area - current_area) / current_area * 100
-print("% tăng chu vi:", str(result))
+print("% tăng diện tích:", str(result))
 # Bài 5
 v_xe_may = float(input("Nhập vào vận tốc xe máy"))
 v_xe_dap = float(input("Nhập vào vận tốc xe đạp"))
