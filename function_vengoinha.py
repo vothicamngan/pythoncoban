@@ -37,7 +37,6 @@ hinh_chu_nhat(70,100)
 turtle.pendown()
 hinh_tam_giac(100,0,250)
    
-
 x1 = 250
 y1= 50
 d1 = 70 
