@@ -1,3 +1,4 @@
+
 def tim_so_nho_nhat(arr):
     num_min = arr[0]
     for item in arr:
