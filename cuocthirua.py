@@ -8,7 +8,7 @@ pen = t.Turtle(visible=False)
 pen.penup()
 pen.speed(0)
 pen.goto(-250, 200)
-elapsed_time = 0
+
 turtle_win = 0
 for i in range(21):
     pen.write(i)
@@ -57,6 +57,7 @@ def random_walk(turtles):
             run = False
     end_time = time.time()
     elapsed_time = end_time - start_time
+    print(f"")
     
 run = True
 while run:
